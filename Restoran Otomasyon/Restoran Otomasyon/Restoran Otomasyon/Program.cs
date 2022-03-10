@@ -15,7 +15,7 @@ namespace Restoran_Otomasyon
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ÜrünEkle());
+            Application.Run(new Masa());
         }
     }
 }

@@ -92,3 +92,28 @@ C:\Users\PC\Desktop\bilgisayar proğramcılığı\Restoran Otomasyonu\Restoran O
 C:\Users\PC\Desktop\bilgisayar proğramcılığı\Restoran Otomasyonu\Restoran Otomasyon\Restoran Otomasyon\obj\Debug\Restoran Otomasyon.pdb
 C:\Users\PC\Desktop\bilgisayar proğramcılığı\Restoran Otomasyonu\Restoran Otomasyon\Restoran Otomasyon\bin\Debug\excel.dll
 C:\Users\PC\Desktop\bilgisayar proğramcılığı\Restoran Otomasyonu\Restoran Otomasyon\Restoran Otomasyon\bin\Debug\excel.pdb
+C:\Users\PC\Documents\GitHub\Csharp-Restoran-Otomasyonu\Restoran Otomasyon\Restoran Otomasyon\Restoran Otomasyon\bin\Debug\Restoran Otomasyon.exe.config
+C:\Users\PC\Documents\GitHub\Csharp-Restoran-Otomasyonu\Restoran Otomasyon\Restoran Otomasyon\Restoran Otomasyon\bin\Debug\Restoran Otomasyon.exe
+C:\Users\PC\Documents\GitHub\Csharp-Restoran-Otomasyonu\Restoran Otomasyon\Restoran Otomasyon\Restoran Otomasyon\bin\Debug\Restoran Otomasyon.pdb
+C:\Users\PC\Documents\GitHub\Csharp-Restoran-Otomasyonu\Restoran Otomasyon\Restoran Otomasyon\Restoran Otomasyon\bin\Debug\excel.dll
+C:\Users\PC\Documents\GitHub\Csharp-Restoran-Otomasyonu\Restoran Otomasyon\Restoran Otomasyon\Restoran Otomasyon\bin\Debug\Guna.UI2.dll
+C:\Users\PC\Documents\GitHub\Csharp-Restoran-Otomasyonu\Restoran Otomasyon\Restoran Otomasyon\Restoran Otomasyon\bin\Debug\excel.pdb
+C:\Users\PC\Documents\GitHub\Csharp-Restoran-Otomasyonu\Restoran Otomasyon\Restoran Otomasyon\Restoran Otomasyon\obj\Debug\Restoran Otomasyon.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Csharp-Restoran-Otomasyonu\Restoran Otomasyon\Restoran Otomasyon\Restoran Otomasyon\obj\Debug\Restoran_Otomasyon.AdminGirisi.resources
+C:\Users\PC\Documents\GitHub\Csharp-Restoran-Otomasyonu\Restoran Otomasyon\Restoran Otomasyon\Restoran Otomasyon\obj\Debug\Restoran_Otomasyon.Giriş.resources
+C:\Users\PC\Documents\GitHub\Csharp-Restoran-Otomasyonu\Restoran Otomasyon\Restoran Otomasyon\Restoran Otomasyon\obj\Debug\Restoran_Otomasyon.GrupEkle.resources
+C:\Users\PC\Documents\GitHub\Csharp-Restoran-Otomasyonu\Restoran Otomasyon\Restoran Otomasyon\Restoran Otomasyon\obj\Debug\Restoran_Otomasyon.Hakkında.resources
+C:\Users\PC\Documents\GitHub\Csharp-Restoran-Otomasyonu\Restoran Otomasyon\Restoran Otomasyon\Restoran Otomasyon\obj\Debug\Restoran_Otomasyon.Masa.resources
+C:\Users\PC\Documents\GitHub\Csharp-Restoran-Otomasyonu\Restoran Otomasyon\Restoran Otomasyon\Restoran Otomasyon\obj\Debug\Restoran_Otomasyon.PersonelEkle.resources
+C:\Users\PC\Documents\GitHub\Csharp-Restoran-Otomasyonu\Restoran Otomasyon\Restoran Otomasyon\Restoran Otomasyon\obj\Debug\Restoran_Otomasyon.PersonelGirisi.resources
+C:\Users\PC\Documents\GitHub\Csharp-Restoran-Otomasyonu\Restoran Otomasyon\Restoran Otomasyon\Restoran Otomasyon\obj\Debug\Restoran_Otomasyon.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\Csharp-Restoran-Otomasyonu\Restoran Otomasyon\Restoran Otomasyon\Restoran Otomasyon\obj\Debug\Restoran_Otomasyon.SatislariGoruntule.resources
+C:\Users\PC\Documents\GitHub\Csharp-Restoran-Otomasyonu\Restoran Otomasyon\Restoran Otomasyon\Restoran Otomasyon\obj\Debug\Restoran_Otomasyon.SifreDegistir.resources
+C:\Users\PC\Documents\GitHub\Csharp-Restoran-Otomasyonu\Restoran Otomasyon\Restoran Otomasyon\Restoran Otomasyon\obj\Debug\Restoran_Otomasyon.Siparis.resources
+C:\Users\PC\Documents\GitHub\Csharp-Restoran-Otomasyonu\Restoran Otomasyon\Restoran Otomasyon\Restoran Otomasyon\obj\Debug\Restoran_Otomasyon.UrunGoster.resources
+C:\Users\PC\Documents\GitHub\Csharp-Restoran-Otomasyonu\Restoran Otomasyon\Restoran Otomasyon\Restoran Otomasyon\obj\Debug\Restoran_Otomasyon.YoneticiEkran.resources
+C:\Users\PC\Documents\GitHub\Csharp-Restoran-Otomasyonu\Restoran Otomasyon\Restoran Otomasyon\Restoran Otomasyon\obj\Debug\Restoran_Otomasyon.ÜrünEkle.resources
+C:\Users\PC\Documents\GitHub\Csharp-Restoran-Otomasyonu\Restoran Otomasyon\Restoran Otomasyon\Restoran Otomasyon\obj\Debug\Restoran Otomasyon.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\Csharp-Restoran-Otomasyonu\Restoran Otomasyon\Restoran Otomasyon\Restoran Otomasyon\obj\Debug\Restoran Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Csharp-Restoran-Otomasyonu\Restoran Otomasyon\Restoran Otomasyon\Restoran Otomasyon\obj\Debug\Restoran Otomasyon.exe
+C:\Users\PC\Documents\GitHub\Csharp-Restoran-Otomasyonu\Restoran Otomasyon\Restoran Otomasyon\Restoran Otomasyon\obj\Debug\Restoran Otomasyon.pdb
